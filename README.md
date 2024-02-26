@@ -1,4 +1,4 @@
-# Alumno
+# Student
 
 Descripciín basisca de su Proyecto de POO ...
 

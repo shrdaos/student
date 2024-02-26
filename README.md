@@ -1,4 +1,4 @@
-# rectangle_tdd
+# Alumno
 
 Descripciín basisca de su Proyecto de POO ...
 
